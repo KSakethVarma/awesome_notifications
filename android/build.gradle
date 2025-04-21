@@ -1,4 +1,4 @@
-group 'me.carda.awesome_notifications'
+//group 'me.carda.awesome_notifications'
 version '0.7.2'
 
 buildscript {
